@@ -5,6 +5,21 @@
 This project focuses on analyzing healthcare data to monitor patient performance, hospital operations, and revenue insights using Excel, Power BI, Tableau, and MySQL.
 
 ---
+### 🔹 Problem Statement
+The goal of this project is to analyze healthcare data to identify patient trends, disease patterns, and hospital performance.
+
+### 🔹 Dataset Features
+- Patient ID
+- Gender & Age
+- Diagnosis
+- Visit Date
+- Billing Amount
+
+### 🔹 Business Impact
+This project helps in:
+- Improving hospital decision-making
+- Tracking patient trends
+- Optimizing healthcare services
 
 ### 🔹 Tools & Technologies Used
 
