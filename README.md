@@ -34,8 +34,8 @@ This project focuses on analyzing healthcare data to monitor patient performance
 
 ### 🔹 SQL Queries
 
-All SQL queries used for analysis are available here:
-📂 MySQL/healthcare_queries.sql
+All SQL queries used for analysis are available here:  
+[📂 View SQL Queries](MySQL/healthcare_queries.sql)
 
 ---
 
